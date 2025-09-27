@@ -1,0 +1,6 @@
+# core (all standard libs except optional ones below)
+# Optional (only if you want to use ML features)
+scikit-learn==1.3.2
+pandas==2.2.2
+joblib==1.3.2
+beautifulsoup4==4.12.2

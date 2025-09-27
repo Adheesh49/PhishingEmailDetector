@@ -1,0 +1,10 @@
+{
+  "phishing_keywords": [
+    "verify", "account", "login", "password", "confirm", "suspend", "suspended",
+    "urgent", "immediately", "secure", "security alert", "update", "billing",
+    "payment", "credit card", "ssn", "social security", "click here", "reset",
+    "verify your account", "confirm your identity"
+  ],
+  "url_shorteners": ["bit.ly", "tinyurl", "t.co", "goo.gl", "ow.ly", "is.gd"],
+  "risky_extensions": [".exe", ".scr", ".js", ".vbs", ".bat", ".com", ".ps1", ".msi", ".docm", ".xlsm"]
+}

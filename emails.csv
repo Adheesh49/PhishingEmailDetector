@@ -1,80 +1,87 @@
 text,label
-"Verify your account immediately by clicking http://bit.ly/abc123",1
-"Your account has been suspended. Login now at http://secure-bank-login.com",1
-"Update your billing information to avoid service interruption",1
-"Urgent: confirm your identity within 24 hours or your account will be locked",1
-"Security alert: unusual sign-in detected. Verify at http://login-security-update.com",1
-"Congratulations! You won a free iPhone. Claim at http://tinyurl.com/freeiphone",1
-"Reset your password now to avoid deactivation",1
-"Dear user, click here to unlock your account http://fake-paypal.com",1
-"We noticed suspicious activity. Please login immediately.",1
-"Your package is on hold. Provide credit card details to release it.",1
-"Verify your payment details to continue your Netflix subscription.",1
-"Immediate action required: confirm bank account information.",1
-"Update required: download the attached file to restore access.",1
-"Please re-enter your social security number to complete verification.",1
-"Click here http://malicious-site.com to secure your account now!",1
-"Important notice: your PayPal account is under review. Confirm now.",1
-"Unusual transaction detected. Enter your card PIN to proceed.",1
-"Confirm your Apple ID to continue using iCloud services.",1
-"Login attempt detected from unknown device. Reset password now.",1
-"Download the attached document to view your urgent invoice.",1
-"Action required: Verify your email at http://bit.ly/secure123 to avoid suspension.",1
-"Your bank account needs re-verification. Click http://bank-login.net now.",1
-"Exclusive offer: Claim your prize at http://win-prize.com before it expires!",1
-"Security warning: Update your password at http://account-safety.org.",1
-"Your subscription will be terminated unless you verify at http://tiny.cc/update.",1
-"Urgent: Your account has been compromised. Reset at http://secure-reset.com.",1
-"Please provide your payment details to unlock your account.",1
-"Critical alert: Confirm your identity at http://id-verification.net.",1
-"Your order cannot be processed. Submit card details at http://payment-fix.com.",1
-"Download the attached security patch to protect your account.",1
-"Unauthorized login attempt detected. Verify at http://login-check.org.",1
-"Your account is at risk. Update details at http://safe-account.net.",1
-"Claim your free gift card at http://gift-claim.com now!",1
-"Verify your banking details to prevent account closure.",1
-"Security update required: Click http://update-security.com to proceed.",1
-"Action needed: Confirm your details to avoid PayPal suspension.",1
-"Your package delivery failed. Provide payment at http://delivery-fix.com.",1
-"Account verification needed. Click http://verify-now.org to continue.",1
-"Please update your payment method to restore access.",1
-"Critical: Verify your identity at http://secure-id-check.com.",1
-"Meeting tomorrow at 10am in the main office. Please be on time.",0
-"Here is the agenda for next week's project update meeting.",0
-"Happy birthday! Wishing you a wonderful year ahead.",0
-"Your Amazon order #12345 has been shipped. Track it at https://amazon.com/orders",0
-"Can we reschedule our lunch meeting to Friday?",0
-"Reminder: Your dental appointment is confirmed for Monday at 3pm.",0
-"The attached report contains quarterly financial results.",0
-"Don’t forget the group study session tonight at the library.",0
-"Thank you for your purchase! Your receipt is attached.",0
-"Weekly newsletter: Top 10 travel destinations for 2025.",0
-"Invitation: Join us for the annual company dinner.",0
-"Your flight booking is confirmed. Details are attached.",0
-"Family gathering this weekend at my house. Bring snacks!",0
-"Reminder: Gym membership renewal is due next month.",0
-"Invoice for web hosting services is attached. Please review.",0
-"Meeting minutes from today’s conference are attached.",0
-"Looking forward to seeing you at the conference next week.",0
-"Your electricity bill for September is available online.",0
-"Attached are the slides for tomorrow’s lecture.",0
-"Team meeting scheduled for Wednesday at 2pm. See you there!",0
-"Your subscription to our newsletter has been confirmed.",0
-"Thanks for registering! Your event tickets are attached.",0
-"Reminder: Project deadline is next Friday. Submit by 5pm.",0
-"Join our webinar on cybersecurity trends this Thursday.",0
-"Your order #67890 has been dispatched. Track at https://ups.com/track",0
-"Please review the attached contract before our next meeting.",0
-"Save the date: Company picnic on Saturday at the park.",0
-"Your library books are due next week. Renew online if needed.",0
-"Thanks for your feedback! We’ll follow up soon.",0
-"Attached is the presentation for tomorrow’s client meeting.",0
-"Reminder: Your car service is booked for Tuesday at 9am.",0
-"Join us for a free workshop on data science next month.",0
-"Your payment for order #45678 has been received. Thank you!",0
-"Weekly team update: Project milestones are attached.",0
-"Please confirm your attendance for the training session.",0
-"Your subscription renewal was successful. Details attached.",0
-"Reminder: Parent-teacher meeting is on Monday at 4pm.",0
-"Attached is the budget report for Q3. Please review.",0
-"Thank you for joining our loyalty program! Details inside.",0
+"From: security@paypal.com Subject: Verify your account immediately. Click here: http://paypal-login-security.com",1
+"From: hr@company.com Subject: Your interview schedule Dear Applicant, your interview is confirmed for Monday.",0
+"From: alerts@bank.com Subject: Urgent password update needed. Reset here: http://secure-bank-login.com",1
+"From: newsletter@shopping.com Subject: Weekly discounts Visit https://shopping.com/deals for details.",0
+"From: admin@payments.com Subject: Account locked, download attachment to continue: AccountUpdate.exe",1
+"From: info@university.edu Subject: Orientation Details Orientation begins October 7. More info: https://university.edu/orientation",0
+"From: credit@card.com Subject: Confirm your card now at http://credit-update.com",1
+"From: orders@amazon.com Subject: Order shipped Track: https://amazon.com/track12345",0
+"From: it@support.com Subject: Reset email password here: http://fake-it-support.com",1
+"From: noreply@linkedin.com Subject: New connection request Visit https://linkedin.com/connection",0
+"From: apple@secure.com Subject: Verify your Apple ID http://appleid-login-security.com",1
+"From: events@council.gov Subject: Community Event This Saturday at 9 AM.",0
+"From: accounts@netflix.com Subject: Payment failed Update at http://netflix-pay-update.com",1
+"From: support@airline.com Subject: Flight booking confirmed Ticket: https://airline.com/ticket123",0
+"From: win@lottery.com Subject: Congratulations! Claim prize at http://claim-prize-now.com",1
+"From: library@college.edu Subject: Book return reminder Due Friday.",0
+"From: support@ebay.com Subject: Confirm your purchase",0
+"From: fraud@bank-secure.com Subject: Suspicious login detected http://bankverify-login.com",1
+"From: student@uni.edu Subject: Exam schedule published Check portal: https://uni.edu/exams",0
+"From: admin@secureaccess.com Subject: Verify details urgently http://fake-secure-access.com",1
+"From: info@health.gov Subject: Free vaccination program details at https://health.gov/vaccines",0
+"From: update@securemail.com Subject: Mailbox exceeded quota Reset now: http://mail-quota-reset.com",1
+"From: contact@conference.org Subject: Registration confirmed for Tech Conference 2025.",0
+"From: billing@fakebank.com Subject: Account suspended Visit http://bank-fake-update.com",1
+"From: tickets@cinema.com Subject: Your movie tickets Download at https://cinema.com/tickets",0
+"From: urgent@payment.com Subject: Payment overdue, pay now http://payment-update-secure.com",1
+"From: registrar@school.edu Subject: Enrollment confirmation letter",0
+"From: admin@phishingsite.com Subject: Confirm login now http://secure-login-phish.com",1
+"From: coach@sportsclub.org Subject: Training schedule updated See portal.",0
+"From: accounts@onlineshop.com Subject: Your purchase receipt attached",0
+"From: verify@scam.com Subject: Update credentials immediately http://scam-update-login.com",1
+"From: hr@itfirm.com Subject: Internship confirmation",0
+"From: security@globalbank.com Subject: Reset password here http://globalbank-login-reset.com",1
+"From: jobs@careerfair.org Subject: Job fair registration details",0
+"From: support@phishalert.com Subject: Urgent! Login required http://phish-alert-login.com",1
+"From: clerk@govoffice.gov Subject: Tax filing reminder due next month.",0
+"From: secure@fakebank.com Subject: Account compromised http://fakebank-secure.com",1
+"From: team@sportsclub.org Subject: Match schedule for October",0
+"From: billing@fraudsite.com Subject: Verify billing info now http://fraud-billing.com",1
+"From: faculty@college.edu Subject: Class cancellation notice",0
+"From: updates@musicapp.com Subject: Your subscription renewed successfully",0
+"From: admin@malicious.com Subject: Security check required http://malicious-login.com",1
+"From: helpdesk@realcompany.com Subject: Scheduled maintenance notice",0
+"From: phishing@fakeemail.com Subject: Account update needed http://phish-update.com",1
+"From: pr@nonprofit.org Subject: Charity event invitation",0
+"From: confirm@fraudmail.com Subject: Verify identity http://fraud-check.com",1
+"From: travel@agency.com Subject: Holiday booking confirmed",0
+"From: account@scamportal.com Subject: Login urgently http://scamportal-login.com",1
+"From: office@community.org Subject: Meeting agenda attached",0
+"From: fraud@phishingmail.com Subject: Suspicious activity detected http://fraud-mail.com",1
+"From: news@newspaper.com Subject: Daily news update",0
+"From: admin@fakeupdate.com Subject: System update required http://fakeupdate-login.com",1
+"From: admissions@uni.edu Subject: Scholarship application approved",0
+"From: secure@phishalert.com Subject: Urgent security issue http://phishalert-update.com",1
+"From: info@company.org Subject: Annual report attached",0
+"From: scam@security.com Subject: Confirm password http://scam-security.com",1
+"From: contact@conference.edu Subject: Keynote schedule update",0
+"From: alert@fraudmail.com Subject: Account blocked http://fraudmail-login.com",1
+"From: hr@enterprise.com Subject: Job confirmation letter",0
+"From: security@fakesite.com Subject: Reset now http://fakesite-reset.com",1
+"From: news@university.edu Subject: Semester newsletter",0
+"From: noreply@shopping.com Subject: Order confirmed with tracking https://shopping.com/track",0
+"From: phishing@alert.com Subject: Account suspended http://phishing-login.com",1
+"From: it@helpdesk.com Subject: Maintenance complete servers restored",0
+"From: verify@scamalert.com Subject: Verify ID http://scam-id.com",1
+"From: sales@store.com Subject: Your invoice for purchase #4567",0
+"From: fake@phishmail.com Subject: Urgent response needed http://phishmail-urgent.com",1
+"From: admin@legitcompany.com Subject: Holiday notice for employees",0
+"From: fraud@scamdomain.com Subject: Confirm banking info http://scam-bank.com",1
+"From: careers@uni.edu Subject: Internship results announced",0
+"From: phishing@secure.com Subject: Security alert login here http://secure-phish.com",1
+"From: support@healthclinic.org Subject: Appointment reminder",0
+"From: update@fraudalert.com Subject: Payment details required http://fraudalert-payment.com",1
+"From: info@library.edu Subject: Library card renewal due soon",0
+"From: phishing@fakeportal.com Subject: Urgent account update http://fakeportal-update.com",1
+"From: events@cultural.org Subject: Festival schedule for November",0
+"From: alert@scammail.com Subject: Immediate login required http://scammail-login.com",1
+"From: contact@bank.edu Subject: Official newsletter from bank",0
+"From: admin@phishing.com Subject: Password reset now http://phishing-passreset.com",1
+"From: noreply@airline.com Subject: Check-in open for your flight",0
+"From: fake@fraudmail.com Subject: Login urgently http://fraud-login.com",1
+"From: registrar@school.edu Subject: Class enrollment confirmation",0
+"From: scam@fakeupdate.com Subject: Update system immediately http://fakeupdate-system.com",1
+"From: info@ngo.org Subject: Thank you for your donation",0
+"From: urgent@scam.com Subject: Account verification http://scam-verification.com",1
+"From: faculty@university.edu Subject: Semester results available on portal",0
